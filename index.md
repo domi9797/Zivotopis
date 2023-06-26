@@ -1,56 +1,86 @@
-# Ime Prezime
-Frontend Developer | Kreativac | Strastveni obožavatelj weba
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Životopis</title>
+  <style>
+    /* Dodajte svoje prilagođene stilove ovdje */
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+    }
 
-📞 Telefon: +123456789
-📧 Email: ime.prezime@email.com
-💼 LinkedIn: [linkedin.com/in/imeprezime](https://linkedin.com/in/imeprezime)
-🌐 Portfolio: [imeprezime.com](https://imeprezime.com)
-🐦 Twitter: [@imeprezime](https://twitter.com/imeprezime)
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 40px;
+    }
 
-## Sažetak
-Inovativan i strastven frontend developer s iskustvom u izradi modernih i responsivnih web stranica. Uvijek sam u potrazi za novim izazovima i željan sudjelovanja u projektima koji donose inovaciju i stvaraju korisnički doživljaj.
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
 
-## Iskustvo
-### Frontend Developer, ABC Company (Godina - Sada)
-- Razvoj i održavanje modernih web aplikacija koristeći HTML, CSS i JavaScript
-- Implementacija i prilagodba UI/UX dizajna na različitim platformama
-- Suradnja s timom dizajnera i programera za postizanje visoke kvalitete proizvoda
+    h2 {
+      font-size: 24px;
+      margin-bottom: 15px;
+    }
 
-### Web Developer Praktikant, XYZ Agency (Godina - Godina)
-- Sudjelovanje u razvoju web stranica i web aplikacija
-- Testiranje i otklanjanje grešaka na postojećim projektima
-- Istraživanje i implementacija novih tehnologija za poboljšanje performansi
+    p {
+      font-size: 16px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Ime Prezime</h1>
+    <h2>Frontend Developer | Kreativac | Strastveni obožavatelj weba</h2>
 
-## Vještine
-- HTML5, CSS3, JavaScript (ES6+)
-- React, Angular, Vue.js
-- Bootstrap, Tailwind CSS
-- Git, GitHub
-- Responsive web dizajn
-- UI/UX dizajn i implementacija
-- Testiranje i otklanjanje grešaka
-- Komunikacijske vještine i timski rad
+    <section>
+      <h2>Obrazovanje</h2>
+      <p>Naziv fakulteta, Studijski program (Godina - Godina)</p>
+      <p>Naziv diplome, smjer</p>
+      <p>Relevantni kursevi ili predmeti</p>
+    </section>
 
-## Projekti
-### Ime projekta
-- Opis projekta i vaša uloga u njemu
-- Korištene tehnologije i postignuća
+    <section>
+      <h2>Radno iskustvo</h2>
+      <p>Naziv tvrtke (Godina - Godina)</p>
+      <p>Naziv pozicije</p>
+      <p>Opis odgovornosti i postignuća</p>
 
-### Ime projekta
-- Opis projekta i vaša uloga u njemu
-- Korištene tehnologije i postignuća
+      <p>Naziv tvrtke (Godina - Godina)</p>
+      <p>Naziv pozicije</p>
+      <p>Opis odgovornosti i postignuća</p>
+    </section>
 
-## Obrazovanje
-### Diplomirani inženjer računarstva, Sveučilište XYZ (Godina - Godina)
-- Relevantni kursevi ili predmeti
-- Dodatne aktivnosti ili istraživanja
+    <section>
+      <h2>Vještine</h2>
+      <ul>
+        <li>Programski jezici: Python, JavaScript, HTML, CSS</li>
+        <li>Frameworks: React, Vue.js</li>
+        <li>Responsive web dizajn</li>
+        <li>UI/UX dizajn i implementacija</li>
+        <li>Git, GitHub</li>
+        <li>Timski rad i komunikacijske vještine</li>
+      </ul>
+    </section>
 
-## Certifikati
-- Naziv certifikata (Godina)
-- Izdavač certifikata
-- Opis certifikata (ako je potrebno)
+    <section>
+      <h2>Projekti</h2>
+      <p>Naziv projekta</p>
+      <p>Opis projekta i vaša uloga u njemu</p>
+      <p>Korištene tehnologije i postignuća</p>
 
-## Jezici
-- Materinski jezik: Hrvatski
-- Engleski: Napredno
-- Njemački: Osnovno
+      <p>Naziv projekta</p>
+      <p>Opis projekta i vaša uloga u njemu</p>
+      <p>Korištene tehnologije i postignuća</p>
+    </section>
+
+    <section>
+      <h2>Jezici</h2>
+     
